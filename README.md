@@ -1,3 +1,3 @@
-05-notehub
+06-notehub-nextjs
 
-Module 5. Mutations with React Query
+1. Module 1. Introduction to Next.js and Routing
